@@ -1,1 +1,2 @@
 "Hello, Git!"
+Make a change to feature.txt (e.g., add a new line of text)
